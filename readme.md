@@ -1,0 +1,2 @@
+Desafio de código realizado no bootcamp de Engenharia de dados<br>
+[Link das regras do desafio](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/Ef-dMEJYq9BPotZQso7LUCwBJd7gDqCC2SYlUYx0ayrGNQ?rtime=LoioAyXJ3Eg)
